@@ -4,10 +4,9 @@ Course: Udemy - The complete JavaScript Course
 
 ## Anotations
 
-Where can I write my JS?
-```bash
+### Where can I write my JS?
 The first way is inside the script tag:
-
+```javascript
 <script>
   console.log('Hellow World');
 </script>
