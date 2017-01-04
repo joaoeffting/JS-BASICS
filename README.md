@@ -19,18 +19,19 @@ Course: Udemy - The complete JavaScript Course
   ```
 
 ### 2. Variables and data types
-  1. How we declare a variable: 
+1. How we declare a variable: 
+```javascript
+  var name = 'John';
+```
+2. Data types 
+
+  1. There are 5 primitive data types:
   ```javascript
-    var name = 'John';
-  ```
-  2. Data types
-  ```
-    There are 5 primitive data types:
-    1. **Number**: Floating point numbers, for decimals and integers
-    2. **String**: Sequence of characters, used for texts
-    3. **Boolean**: Logical types: true or false
-    4. **Undefined**: Data type of a variable which does not have a value yet
-    5. **Null**: Also means 'non-existent'
+    Number: Floating point numbers, for decimals and integers
+    String: Sequence of characters, used for texts
+    Boolean: Logical types: true or false
+    Undefined: Data type of a variable which does not have a value yet
+    Null: Also means 'non-existent'
   ```
 
 ## Contributors
