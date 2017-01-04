@@ -34,6 +34,17 @@ There are 5 primitive data types:
   Null: Also means 'non-existent'
   ```
 
+There are two types of comment in JavaScript:
+```javascript
+  // it's inline comment
+
+  /*
+    it is
+    a block
+    comment
+  */
+  ```
+
 ## Contributors
 
 **@author:** 'João Paulo Effting *< [joaoeffting@gmail.com](mailto:joaoeffting@gmail.com) >*' 
