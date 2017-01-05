@@ -45,6 +45,18 @@ There are two types of comment in JavaScript:
   */
   ```
 
+  Type coercion:
+  ```javascript
+  /*
+  When we have two differents data types and we mix them together, 
+  JavaScript automaticaly figure out which of the variables it has to
+  convert and them, convert it
+  */
+  var name = 'John';
+  var age = 26;
+  console.log(name + age); //it returns John26 
+  ```
+
 ## Contributors
 
 **@author:** 'João Paulo Effting *< [joaoeffting@gmail.com](mailto:joaoeffting@gmail.com) >*' 
